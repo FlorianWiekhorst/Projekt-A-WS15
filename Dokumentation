@@ -1,2 +1,13 @@
-Dokumentation zum Project-A
+Dokumentation zum Projekt-A
 
+Projektname: Ein Tag an der HAW
+
+Unser Team besteht aus:
+  ~ Francisco Soria Vega   (2217485)
+  ~ Florian Wiekhorst      (2217663)
+  
+Wir möchten einen Rundgang durch die Bereiche/Module der Uni aufbauen.
+Wobei der User als Student agiert, und je nach Bereich Aufgaben oder Minispiele absolvieren muss.
+Im Anschluß erhält er dann entsprechend seiner Leistungen eine Bewertung.
+
+Wir nutzen dafür HTML5 sowie PHP.
