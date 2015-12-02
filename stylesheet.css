@@ -1,0 +1,33 @@
+
+
+p {
+  	font-size: 23px;
+  	font-family: Times, serif;
+  	text-align: center;
+  	text-decoration: none;
+}
+
+
+body {
+  	background-color:#008080;	
+}
+
+div1 {
+  	height: 100px;
+  	width: 100px;
+  	
+  	text-decoration: none;
+  	text-align: center;
+  	margin: auto;
+  	
+  	background-color:#cc0000;
+    border-color: #cc0000;
+    border-radius: 15px;
+}
+
+img {
+    height: 200px;
+    width: 350px;
+    border: 5px solid #000000;
+	  margin: auto;
+}
