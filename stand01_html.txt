@@ -1,0 +1,50 @@
+# Project-A
+Ein Tag an der HAW ---> Stand HTML/CSS;
+
+
+30.11.2015 - Gruppentreffen
+Jeder Bereich unseres Abenteuers an der HAW wird durch eine eigene html-seite verkörpert.
+Wir brauchen eine ansprechende Startseite, mit Begrüßung, Titel, einem Bild und 2 bis 3 vers. 
+Buttons(Start - Ende - (Highsscore)).
+Danach soll der User auf den Anmeldebogen geleitet werden, wo er Name, Geschlecht, usw angeben muss.
+Dazu brauchen wir ein Textfeld, einen Radio-Button, beides mit der entsprechenden Bezeichnung.
+
+Wir überlegten die Möglichketen eine Karte(Grundriss HAW Finkenau) zu verwenden, auf welcher man gezielt 
+wählen kann welchen Raum(und damit auch Modul) man besuchen möchte. Nach Abschluß des Moduls sollte dieser 
+Raum auf der Karte dann gesperrt werden. ODER: Ob jeder User denselben Rundgang an der HAW durchlebt.
+Dadurch könnte man eine ausgegliche Raumabfolge von Minispiel und Story ermöglichen, bzw. würde verhindern, 
+dass user A zuerst alle Minispiele erlebt und sich dann nurnoch durch Textfenster klickt.
+
+Es hat also beides wie so oft Vor- und Nachteile.
+Eventuell erstellen wir einen Rundgang, bei welchem man jederzeit auf die Karte schauen kann um zu sehen wo 
+man schon war, wie man da abgeschnitten hat, und was noch an Räumen auf einen zu kommt.
+
+Dafür würden wir dann eine html_Karte.html erstellen. Der Grundriss als Hintergrund. 
+Und die einzelnden Räume als umriss mit Mouse_Over-Events, welche ein Info_Screen zu dem Raum angeben.
+
+Wir planen insgesamt am Ende auf 15-20 html Bereiche zu kommen. 
+Einige natürlich umfangreicher, andere simple und schlicht. 
+
+
+
+
+
+02.12.2015
+Ich habe das Grundgerüst der Startseite eingerichtet. Der Beenden Link führt derzeit noch zur Google seite.
+Könnte man unter Umständen sogar so lassen denke ich. Der HTML/CSS Aufbau ist bisher schlicht gehalten, 
+er soll den user nicht direkt erschlagen(keine grellen Farben/Bunte Schrift). 
+Über den Start-Button kommt man zum Anmeldeformular, bei welchem noch nicht alle Elemente an ihrer 
+perfekten Endposition plaziert sind. Mir war es in erster Linie wichtiger sie erst einmal einzufügen und zu testen.
+Es gibt den Begrüßungstext. Das Namensfeld mit Eingabeaufforderung, sowie ein einfachen RadioButton welcher einen sein 
+Geschlecht auswählen lässt. (ob und wie wir das in den späteren Verlauf mit einbauen ist noch nicht ganz klar).
+
+Hat der User seine Daten eingegeben und klickt auf weiter,
+(hier muss noch klargestellt werden, dass weiter nur anklickbar ist, wenn etwas eingegeben wurde!!)
+dann kommt er zum Vorkurs, bei welchem wir ein paar Einstiegsfragen an unseren User haben.
+(Ob diese Antworten auch schon auf die Endbewertung eingehen, oder nur ein Kommentar am Ende erzeugen ist auch noch nicht geklärt).
+
+
+
+
+
+
