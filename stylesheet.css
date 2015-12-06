@@ -1,7 +1,7 @@
 /* css for all   */
 p {
 	font-size: 23px;
-    font-family: Garamond, serif;
+	font-family: Garamond, serif;
 	text-align: center;
 	text-decoration: none;
 }
@@ -17,19 +17,19 @@ div1 {
 	text-align: center;
 	margin: auto;
 	background-color:#cc0000;
-    border-color: #cc0000;
-    border-radius: 15px;
+	border-color: #cc0000;
+	border-radius: 15px;
 }
 titlepicture {
     height: 200px;
     width: 350px;
     border: 0px solid #000000;
-	margin: auto;
+    margin: auto;
 }
 logo {
-    height: 100px;
-    width: 100px;
-	margin: auto;
+	  height: 100px;
+	  width: 100px;
+	  margin: auto;
 }
 
 /* css for Anmeldung_01   */
@@ -47,19 +47,17 @@ logo {
 	width: 1000px;
 	background-color:#ffa54f;
 	border: 5px solid black;
-    border-radius: 8px;
+	border-radius: 8px;
 	margin: auto;
 	text-align: center;
 }
-#name {
-	margin: 60px 240px 100px 0px;
-}
+
 #creditpoints {
 	height: 120px;
 	width: 160px;
 	background-color:#cdc9c9;
 	border: 5px solid black;
-    border-radius: 37px;
+   	border-radius: 37px;
 	margin: auto;
 	text-align: center;
 }
@@ -67,23 +65,22 @@ logo {
 	margin: -20px 0px 0px 0px;
 	padding: 10px;
 }
-#gender {
-	margin: 60px 240px 100px 0px;
+#nameinput 
+{
+	width: 30px;
 }
 
-input[type="text"] {
-  display: block;
-  margin: 0;
-  width: 100%;
-  font-family: sans-serif;
-  font-size: 18px;
-  appearance: none;
-  box-shadow: none;
-  border-radius: none;
+
+/* css for Vorkurs_02  	  */
+
+/* css for NWI_03 		  */
+#weiter_button {
+	height: 50px;
+	width: 100px;
+	background-color:#99ffeb;
+	border: 1px solid black;
+	border-radius: 1px;
+	margin: auto;
+	text-align: center;
 }
-
-/* css for Vorkurs_02   */
-
-
-
 
