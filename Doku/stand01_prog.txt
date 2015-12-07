@@ -1,0 +1,19 @@
+PHP/JavaScripter-Anteil: 
+Legen Sie hier (jeweils in einem kurzen Satz) fest, welche Funktionalitäten die Anwendung beinhalten soll.
+Sie werden dabei feststellen, dass manche Funktionalitäten tatsächlich nur in Form von mehreren Teilfunktionalitäten
+umgesetzt werden kann, aber das ist vollkommen in Ordnung; in diesen Fällen notieren Sie jede Teilfunktionalität zu
+der betreffenden Funktionalität. Notieren Sie jeweils zusätzlich, welchem Zweck jede Funktionalität dienen soll 
+(Es geht also noch nicht um die tatsächliche Programmierung.)
+
+- Erstellen einer Session um UserInput aufzunehmen
+- Speicherung des NickNames/Geschlechts (globale Variable/n)
+- Auswertung von Quixfragen in form von RadioButtons(multipleChoice)
+
+--> verschiedene MiniSpiele welche Punkte geben:
+    - 17+4 Kartenspiel (Abfrage Kartenwerte/Siegesbedingungen)
+    - FlurLaufSpiel (per WASD Input Objekten ausweichen/Timer)
+    - NWI Kabelspiel (eventuell Drag&Drop Aufgabe)
+    - Bombe entschärfen/Logic Game (Timer/TimerAusgabe von Anweisungen)
+
+- Speicherung der Gesamtpunktzahl
+- Ausgabe einer Endbewertung anhand der erreichten Gesamtpunktzahl
