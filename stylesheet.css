@@ -1,0 +1,130 @@
+/* css for all   */
+p {
+	font-size: 23px;
+	font-family: Garamond, serif;
+	text-align: center;
+	text-decoration: none;
+}
+body {
+	background-color:#008080;	
+}
+
+main {
+	height: 700px;
+	width: 1000px;
+	background-color:#ffa54f;
+	border: 5px solid black;
+	border-radius: 8px;
+	margin: auto;
+	text-align: center;
+}
+
+/* css for titleScreen   */
+div1 {
+	height: 100px;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+	margin: auto;
+	background-color:#cc0000;
+	border-color: #cc0000;
+	border-radius: 15px;
+}
+titlepicture {
+    height: 200px;
+    width: 350px;
+    border: 0px solid #000000;
+    margin: auto;
+}
+logo {
+	  height: 100px;
+	  width: 100px;
+	  margin: auto;
+}
+
+/* css for Anmeldung_01   */
+#anmeldeformular {
+	margin: auto;
+	background-color: #f8f8ff;
+	height: 600px;
+	width: 400px;
+	border: 2px solid black;
+	border-radius: 5px;
+	display: block;
+}
+#mainwindow {
+	height: 700px;
+	width: 1000px;
+	background-color:#ffa54f;
+	border: 5px solid black;
+	border-radius: 8px;
+	margin: auto;
+	text-align: center;
+}
+
+#creditpoints {
+	height: 120px;
+	width: 160px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin: auto;
+	text-align: center;
+}
+
+#points {
+	margin: -20px 0px 0px 0px;
+	padding: 10px;
+}
+
+#nameinput 
+{
+	width: 30px;
+}
+
+/* css for Math  	  */
+#mathgamepoints {
+	margin: -20px 0px 0px 0px;
+	padding: 10px;
+}
+
+#mathgameplayer {
+	height: 200px;
+	width: 100px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin: auto;
+	text-align: left;
+}
+
+#mathgameweiß{
+	height: 200px;
+	width: 100px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin: auto;
+	text-align: wright;
+}
+/* css for Vorkurs_02  	  */
+
+/* css for NWI_03 		  */
+#weiter_button {
+	height: 120px;
+	width: 160px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin: auto;
+	text-align: center;
+}
+
+#Kabelsalat {
+	height: 300px;
+	width: 300px;
+	border-radius: 37px;
+	margin: auto;
+	text-align: center;
+}
+
