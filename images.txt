@@ -1,0 +1,76 @@
+
+Wir nutzen eine nPage-Seite um unsere Bilder hochzuladen:
+  http://possumsednolo.npage.de/bildersammlung.html
+  
+
+Hier eine Liste der BilderLinks:
+KartenSpielBilder:
+
+HERZ_Karten:
+2: http://file2.npage.de/014013/83/bilder/herz_2.png
+3: http://file2.npage.de/014013/83/bilder/herz_3.png
+4: http://file2.npage.de/014013/83/bilder/herz_4.png
+5: http://file2.npage.de/014013/83/bilder/herz_5.png
+6: http://file2.npage.de/014013/83/bilder/herz_6.png
+7: http://file2.npage.de/014013/83/bilder/herz_7.png
+8: http://file2.npage.de/014013/83/bilder/herz_8.png
+9: http://file2.npage.de/014013/83/bilder/herz_9.png
+10: http://file2.npage.de/014013/83/bilder/herz_10.png
+Bube: http://file2.npage.de/014013/83/bilder/herz_bu.png
+Dame: http://file2.npage.de/014013/83/bilder/herz_qu.png
+Koenig: http://file2.npage.de/014013/83/bilder/herz_ki.png
+Ass: http://file2.npage.de/014013/83/bilder/herz_as.png
+_____________
+
+KREUZ_Karten:
+2: http://file2.npage.de/014013/83/bilder/kreuz_2.png
+3: http://file2.npage.de/014013/83/bilder/kreuz_3.png
+4: http://file2.npage.de/014013/83/bilder/kreuz_4.png
+5: http://file2.npage.de/014013/83/bilder/kreuz_5.png
+6: http://file2.npage.de/014013/83/bilder/kreuz_6.png
+7: http://file2.npage.de/014013/83/bilder/kreuz_7.png
+8: http://file2.npage.de/014013/83/bilder/kreuz_8.png
+9: http://file2.npage.de/014013/83/bilder/kreuz_9.png
+10: http://file2.npage.de/014013/83/bilder/kreuz_10.png
+Bube: http://file2.npage.de/014013/83/bilder/kreuz_Bu.png
+Dame: http://file2.npage.de/014013/83/bilder/kreuz_qu.png
+Koenig: http://file2.npage.de/014013/83/bilder/kreuz_ki.png
+Ass: http://file2.npage.de/014013/83/bilder/kreuz_as.png
+
+_______
+
+KARO_Karten:
+2: http://file2.npage.de/014013/83/bilder/karo_2.png
+3: http://file2.npage.de/014013/83/bilder/karo_3.png
+4: http://file2.npage.de/014013/83/bilder/karo_4.png
+5: http://file2.npage.de/014013/83/bilder/karo_5.png
+6: http://file2.npage.de/014013/83/bilder/karo_6.png
+7: http://file2.npage.de/014013/83/bilder/karo_7.png
+8: http://file2.npage.de/014013/83/bilder/karo_8.png
+9: http://file2.npage.de/014013/83/bilder/karo_9.png
+10: http://file2.npage.de/014013/83/bilder/karo_10.png
+Bube: http://file2.npage.de/014013/83/bilder/karo_bu.png
+Dame: http://file2.npage.de/014013/83/bilder/karo_qu.png
+Koenig: http://file2.npage.de/014013/83/bilder/karo_ki.png
+Ass: http://file2.npage.de/014013/83/bilder/karo_as.png
+_____________
+
+PIK_Karten:
+2: http://file2.npage.de/014013/83/bilder/pik_2.png
+3: http://file2.npage.de/014013/83/bilder/pik_3.png
+4: http://file2.npage.de/014013/83/bilder/pik_4.png
+5: http://file2.npage.de/014013/83/bilder/pik_5.png
+6: http://file2.npage.de/014013/83/bilder/pik_6.png
+7: http://file2.npage.de/014013/83/bilder/pik_7.png
+8: http://file2.npage.de/014013/83/bilder/pik_8.png
+9: http://file2.npage.de/014013/83/bilder/pik_9.png
+10: http://file2.npage.de/014013/83/bilder/pik_10.png
+Bube: http://file2.npage.de/014013/83/bilder/pik_bu.png
+Dame: http://file2.npage.de/014013/83/bilder/pik_qu.png
+Koenig: http://file2.npage.de/014013/83/bilder/pik_ki.png
+Ass: http://file2.npage.de/014013/83/bilder/pik_as.png
+
+
+______________________
+
+(Bilder fuer Schnick-Schnack-Schnuck)

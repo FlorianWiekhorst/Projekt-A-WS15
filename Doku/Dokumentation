@@ -11,3 +11,10 @@ Wobei der User als Student agiert, und je nach Bereich Aufgaben oder Minispiele 
 Im Anschluß erhält er dann entsprechend seiner Leistungen eine Bewertung.
 
 Wir nutzen dafür HTML5 sowie PHP.
+
+
+update_12.12.2015:
+Um eigene Bilder ohne mySQL Server verwendung in unser Projekt einbinden zu können, 
+habe ich auf einer älteren nPage-Seite von mir eine Bildersammlung angelegt.
+nPage bietet jedem Nutzer 300mb Serverseitigen Speicher, 
+welchen wir sozusagen missbrauchen für unser Projekt.
