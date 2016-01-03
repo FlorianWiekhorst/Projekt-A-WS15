@@ -6,7 +6,18 @@ p {
 	text-decoration: none;
 }
 body {
-	background-color:#008080;	
+	background-color:#008080;
+}
+
+main {
+	height: 700px;
+	width: 1000px;
+	background-color:#ffa54f;
+	border: 5px solid black;
+	border-radius: 8px;
+	margin: auto;
+	text-align: center;
+	line-height: 20pt;
 }
 
 /* css for titleScreen   */
@@ -61,26 +72,100 @@ logo {
 	margin: auto;
 	text-align: center;
 }
+
 #points {
 	margin: -20px 0px 0px 0px;
 	padding: 10px;
 }
+
 #nameinput 
 {
 	width: 30px;
 }
 
+/* css for Math  	  */
 
 /* css for Vorkurs_02  	  */
 
 /* css for NWI_03 		  */
 #weiter_button {
-	height: 50px;
-	width: 100px;
-	background-color:#99ffeb;
-	border: 1px solid black;
-	border-radius: 1px;
+	height: 120px;
+	width: 160px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
 	margin: auto;
 	text-align: center;
+}
+
+#mathe1_buttons {
+	width: 6em;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#Logikaufgabe{
+	margin-left: auto;
+	display: inline-block;
+}
+
+#aufgabelösen_button {
+	height: 120px;
+	width: 160px;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin: auto;
+	text-align: center;
+}
+
+#Kabelsalat {
+	height: 300px;
+	width: 300px;
+	border-radius: 37px;
+	margin: auto;
+	text-align: center;
+}
+
+#matheplayer{
+	width: 6em;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#weiß{
+	width: 6em;
+	background-color:#cdc9c9;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
