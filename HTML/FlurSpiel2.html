@@ -4,9 +4,10 @@
 		<meta charset="utf-8">
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title>FlurSpiel2</title>
+		<script src="showVideo.js"></script>
 	</head>
 	
-	<body>
+	<body onload="hideVideo()">
 	<header>
 	</header>
 	
@@ -16,17 +17,32 @@
 		
 		<p> Du begegnest auf dem Flur Tom, einem deiner Komilitonen. Er erinert dich daran, 
 			dass ihr noch die Präsi für euer AV-Referat fertig machen müsst. Da du zeitlich
-			gerade sehr eingespannt bist, sprich keine Lust hast kannst du ihn zu einer Runde
+			gerade sehr eingespannt bist, sprich keine Lust hast, kannst du ihn zu einer Runde
 			SchnickSchnackSchnuck überreden. Der Verlierer muss die Präsi erstellen. </p>
 		
-		<article id="SchnickSchnackSchnuck">
-			<!-- Hier kommt das Video rein -->
-		</article>
+		<div id="SchnickSchnackSchnuck">
+			<video autoplay loop>
+				<source src="http://possumsednolo.npage.de/get_file.php?id=30035307&vnr=295748" type="video/mp4">
+				Your browser does not support the video >:(
+			</video>
+
+		</div>
 		
-		<form action="">
-			<input type="button" value="Hit it" onclick="nextSchnick()">
+		<form action="" id="b1">
+			<input type="button" value="Los Geht's !" onclick="showVideo()">
 		</form>
 		
+		<div id="deineWahl">
+		<p>Wähle deinen Zug!</p>
+			<input type="radio" name="schnik" value="1"required>Stein!
+			<input type="radio" name="schnik" value="2"required>Papier!
+			<input type="radio" name="schnik" value="3"required>Schere!
+		</div>
+			
+			<div id="tomsWahl">
+				<img src="http://file2.npage.de/014013/83/bilder/tom_ueberlegt.png" alt="tom" height="445" width="250"> 
+			</div>
+			
 		<aside>
 		<p> Deine Punkte: </p>
 		<p> Toms Punkte: </p>
