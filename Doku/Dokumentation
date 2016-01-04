@@ -7,7 +7,8 @@ Unser Team besteht aus:
   ~ Florian Wiekhorst      (2217663)
   
 Wir möchten einen Rundgang durch die Bereiche/Module der Uni aufbauen.
-Wobei der User als Student agiert, und je nach Bereich Aufgaben oder Minispiele absolvieren muss.
+Wobei der User als Student agiert, auf Professoren und Dozenten trifft 
+und je nach Bereich Aufgaben oder Minispiele absolvieren muss.
 Im Anschluß erhält er dann entsprechend seiner Leistungen eine Bewertung.
 
 Wir nutzen dafür HTML5 sowie PHP.
@@ -18,3 +19,8 @@ Um eigene Bilder ohne mySQL Server verwendung in unser Projekt einbinden zu kön
 habe ich auf einer älteren nPage-Seite von mir eine Bildersammlung angelegt.
 nPage bietet jedem Nutzer 300mb Serverseitigen Speicher, 
 welchen wir sozusagen missbrauchen für unser Projekt.
+
+update_03.01.2015:
+Was den HTML-Bereich angeht möchten wir versuchen soviele in der Vorlesung
+"Einführung in die Programmierung" behandelten Themen (z.B. Barrierefreiheit,
+Einbindung von multimedialen Inhalten) wie möglich umzusetzen.

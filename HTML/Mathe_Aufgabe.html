@@ -3,13 +3,15 @@
 
 	<head>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title>Mathe Aufgabe</title>
 	</head>
 	
 	<body>
 	 <header>
-	 </header>
+		<img id="logo" src="http://www.haw-hamburg.de/fileadmin/templates/fundraising/images/logo-haw-hamburg.png"/> 
+	</header>
 	
 		<main>
 		<h1>Logikaufgabe</h1>
@@ -17,7 +19,9 @@
 			für schwache Geister. Nun gut. Ich hoffe Sie haben in meiner Vorlesung
 			aufgepasst. Ich werde Ihnen jetzt eine Logikaufgabe stellen. Sie haben
 			dann 3 Minuten Zeit um sie zu lösen.</p>
-			
+		
+		<hr/>
+		
 		<p> Anna, Berta und Claudia stehen vor Gericht. Jede von ihnen kann schuldig sein, es
 			können aber auch zwei oder alle drei schuldig sein. (Und es ist sogar möglich,
 			dass alle drei unschuldig sind. Wachtmeister Dimpfelmoser kann sich ja auch mal irren. . . )
@@ -29,15 +33,21 @@
 			Namens dafür steht, dass die entsprechende Person schuldig ist, dann wissen Sie wegen der Aussage
 			von Anna zum Beispiel, dass ¬A , (B ^ C) gelten muss.] </p>
 		
+		<div id="Logikaufgabe">
 		<form>
-		<fieldset>
-		<legend>Bitte gebe hier deine Antwort ein:</legend>
-		<label for=mathanswer>Die Schuldige ist:</label><input id=mathanswer name=mathanswer required> <br>
-		</fieldset>
-		<input type=submit>
+					
+					<fieldset>
+					<legend>Die Schuldige ist:</legend>
+							<input type="radio" name="Verdächtige" value="Anna" required>Anna<br>
+							<input type="radio" name="Verdächtige" value="Berta" required>Berta<br>
+							<input type="radio" name="Verdächtige" value="Claudia" required>Claudia
+					</fieldset>
+					<input type=submit>
+					
 		</form>
+		</div>
 		
-		
+		<hr/>
 		<div id="creditpoints">
 						<p id"points">Creditpoints</p>
 						<p id"points">0</p>

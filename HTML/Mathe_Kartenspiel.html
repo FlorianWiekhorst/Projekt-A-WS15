@@ -3,53 +3,52 @@
 
 	<head>
 		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
 		<title>Mathe Kartenspiel</title>
 	</head>
 	
 	<body>
 	 <header>
-	 </header>
+		<img id="logo" src="http://www.haw-hamburg.de/fileadmin/templates/fundraising/images/logo-haw-hamburg.png"/> 
+	</header>
 	 
 	 <main>
 	  
-		
-			<div id="MATH">
 				<h1 id=mathe1"><br>17 + 4 gegen Weiß</h1>
 				
 				<p> Ich sehe Sie sind ein Zocker. Sehr schön. Ich hoffe Sie sind mit den Regeln des
 					'17+4' vertraut. Wenn nicht schlagen Sie doch noch einmal kurz in den Regeln nach. </p> 
 				
 				<a target="popup" onclick="window.open('', 'popup', 'width=580, height=360')"href="17+4_Regeln.html">Regeln</a>
+				
+				<hr/>
 
-					<div id="17+4">
-		
-						<div id="mathgameplayer">
-						</div>
-						
-						<p id"mathgamepoints">Deine Punkte:</p>
+					<div id="matheplayer">
+					<p>Deine Punkte:</p>
 						
 						<form action="">
 							<input type="button" value="Karte ziehen" onclick="nextCard()">
 							<input type="button" value="Stoppen" onclick="stop()">
 						</form>
+					</div>	
+					
+					<div id="weiß">
+					<p>Weiß Punkte:</p>
 					</div>
 					
-					<div id="mathgameweiß">											
-					</div>
 					
-					<p id"mathgamepoints">Weiß Punkte:</p>
 					
-					<div id="weiter_button">
+					<hr/>
 						<p><a href="04_Flur.html"><strong>weiter --></strong></a></p>
-					</div>
+			
 					<p><br></p>
 					
 					<div id="creditpoints">
 						<p id"points">Creditpoints</p>
 						<p id"points">0</p>
 					</div>
-			</div>	
+
 	
 	</main>
 </body>
