@@ -1,3 +1,4 @@
+07.12.2015
 PHP/JavaScripter-Anteil: 
 Legen Sie hier (jeweils in einem kurzen Satz) fest, welche Funktionalitäten die Anwendung beinhalten soll.
 Sie werden dabei feststellen, dass manche Funktionalitäten tatsächlich nur in Form von mehreren Teilfunktionalitäten
@@ -17,3 +18,20 @@ der betreffenden Funktionalität. Notieren Sie jeweils zusätzlich, welchem Zwec
 
 - Speicherung der Gesamtpunktzahl
 - Ausgabe einer Endbewertung anhand der erreichten Gesamtpunktzahl
+
+________________________________________
+
+Update 13.12.2015 :
+Probleme mit XAMPP bei der wiedergabe von php.
+Zu Beginn lief alles wie es sollte, inzwischen wird
+der Quellcode angezeigt, statt ausgeführt. >:(
+
+
+Überlegungen das FlurLaufSpiel in C# zu erstellen,
+da schon einige Erfahrung von Unity in C# vorhanden ist.
+(Sprites für das Spiel mit GIMP erstellt.)
+_________________________________________
+
+Update 03.01.2016 :
+17+4 Kartenspiel erstellt.
+
