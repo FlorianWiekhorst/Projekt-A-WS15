@@ -78,6 +78,10 @@ http://file2.npage.de/014013/83/bilder/stein.png
 http://file2.npage.de/014013/83/bilder/papier.png
 
 --> neu: 
+
+"NWI Kabelsalat" -Img
+http://file2.npage.de/014013/83/bilder/nwi_kabelspiel_ver2.png
+
 "Tom überlegt auch noch" -Img
 http://file2.npage.de/014013/83/bilder/tom_ueberlegt.png
 
