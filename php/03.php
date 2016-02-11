@@ -9,14 +9,16 @@
 			<div id="NWI">
 				<p id=begrüßung"><br>Netzwerke/Internet Labor</p>
 				
-				<!-- img Kabelsalat.png einbinden -->
+			
 				
-					<div id="kabelsalat">
-					<p id="kabel">Welches Kabel ist mit dem Server verbunden?</p>
+				<div id="kabelsalat">
+				<p><img src="http://file2.npage.de/014013/83/bilder/nwi_kabelspiel_ver2.png"/></p>
+				
+				<p id="kabel">Welcher PC ist mit dem Server verbunden?</p>
 						<form action="">
-							<input type="radio" name="kabel" value="red">Rot<br>
-							<input type="radio" name="kabel" value="yellow">Gelb<br>
-							<input type="radio" name="kabel" value="green">Grün
+							<input type="radio" name="kabel" value="pc_A">A<br>
+							<input type="radio" name="kabel" value="pc_B">B<br>
+							<input type="radio" name="kabel" value="pc_C">C
 						</form>
 					</div>
 					

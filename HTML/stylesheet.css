@@ -6,19 +6,27 @@ p {
 	text-decoration: none;
 }
 body {
+	width: auto;
+	height: auto;
 	background-color:#008080;
 }
 
 main {
-	height: 700px;
-	width: 1000px;
+	height: auto;
+	width: auto;
 	background-color:#ffa54f;
 	border: 5px solid black;
 	border-radius: 8px;
-	margin: auto;
 	text-align: center;
-	line-height: 20pt;
+	padding: 20px;
 }
+
+header {
+	width: auto;
+	height: auto;
+	margin-bottom: 20px;
+}
+
 
 /* css for titleScreen   */
 div1 {
@@ -52,15 +60,6 @@ logo {
 	border: 2px solid black;
 	border-radius: 5px;
 	display: block;
-}
-#mainwindow {
-	height: 700px;
-	width: 1000px;
-	background-color:#ffa54f;
-	border: 5px solid black;
-	border-radius: 8px;
-	margin: auto;
-	text-align: center;
 }
 
 #creditpoints {
@@ -137,6 +136,27 @@ logo {
 	text-align: center;
 }
 
+#playerkarte {
+	width: 100px;
+	height: 200px;
+	background-color: white;
+	border: 5px solid black;
+   	border-radius: 37px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	vertical-align: middle;
+	display: inline-block;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#weißkarte{
+	
+}
+
 #matheplayer{
 	width: 6em;
 	background-color:#cdc9c9;
@@ -168,4 +188,6 @@ logo {
 	padding-left: 30px;
 	padding-right: 30px;
 }
+
+
 
